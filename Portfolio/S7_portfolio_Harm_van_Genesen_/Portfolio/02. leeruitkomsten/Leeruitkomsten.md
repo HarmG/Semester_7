@@ -1,4 +1,6 @@
-## 1. Analysis{#analysis-01}
+# Leeruitkomsten
+
+## 1. Analysis
 
 You are able to carry out a requirement analysis for a software system with various stakeholders in a context of existing systems. And, you can define acceptance criteria based on quality properties and a risk analysis carried out with, among others, attention for security aspects.
 
@@ -32,6 +34,15 @@ You are able to formulate appropriate research questions and secondary questions
 
 You are able to account for and defend the execution of a comprehensive professional assignment carried out in a realistic context, both orally and in writing, and are able to adapt the writing style to the intended audience either in Dutch or in English. Also, you are able to work effectively in a team in the independent execution of a professional assignment. Moreover you are able to function and work well in an international or intercultural environment, inside as well as outside the university of applied sciences.
 
+### iteratie 0 
+
+In iteratie 0 zijn Bram Bastiaan en ik samen gekomen om te brainstormen over een project idee. Het plan is om met zijn 3e voor het [home assistant](https://www.home-assistant.io/) platform een add-on te maken die gebruikers zouden kunnen installeren. De plugin gaat de gebruiker helpen om automatiseringen te genereren op basis van hun gedrag/input. 
+
+Om dit plan uit te werken zijn wij meerdere malen bijeen gekomen in teams meetings en op locatie. In deze meetings zijn wij bezig geweest om ons projectplan te formuleren. Om te verifiëren of ons project aansluit op de leerdoelen van dit semester hebben wij deze in een online sessie gepitcht aan de docenten en de klas. De feedback ([[feedback 09-02-2023]]) die we hebben gekregen was prima. De onderzoeksvraag is groot genoeg om met zijn 3e te doen. De volgende stap was het concreet maken van de hoofdvraag en sub vragen. 
+
+#todo uitwerken feedback wat op canvas staat (server ligt er nu uit).
+
+## Conclusie
 ---
 ## 8. Learning ability
 
