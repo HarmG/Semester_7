@@ -1,1 +1,1 @@
-[[Onderzoeksvraag]]
+[Onderzoeksvraag](Onderzoeksvraag.md)

@@ -66,7 +66,7 @@ You are able to account for and defend the execution of a comprehensive professi
 
 In iteratie 0 zijn Bram Bastiaan en ik samen gekomen om te brainstormen over een project idee. Het plan is om met zijn 3e voor het [home assistant](https://www.home-assistant.io/) platform een add-on te maken die gebruikers zouden kunnen installeren. De plugin gaat de gebruiker helpen om automatiseringen te genereren op basis van hun gedrag/input. 
 
-Om dit plan uit te werken zijn wij meerdere malen bijeen gekomen in teams meetings en op locatie. In deze meetings zijn wij bezig geweest om ons projectplan te formuleren. Om te verifiëren of ons project aansluit op de leerdoelen van dit semester hebben wij deze in een online sessie gepitcht aan de docenten en de klas. De feedback ([feedback 09-02-2023](feedback%2009-02-2023.md)) die we hebben gekregen was prima. De onderzoeksvraag is groot genoeg om met zijn 3e te doen. De volgende stap was het concreet maken van de hoofdvraag en sub vragen. 
+Om dit plan uit te werken zijn wij meerdere malen bijeen gekomen in teams meetings en op locatie. In deze meetings zijn wij bezig geweest om ons projectplan te formuleren. Om te verifiëren of ons project aansluit op de leerdoelen van dit semester hebben wij deze in een online sessie gepitcht aan de docenten en de klas. De feedback ([feedback 09-02-2023](../03.%20Proces/Feedback/feedback%2009-02-2023.md)) die we hebben gekregen was prima. De onderzoeksvraag is groot genoeg om met zijn 3e te doen. De volgende stap was het concreet maken van de hoofdvraag en sub vragen. 
 
 #todo uitwerken feedback wat op canvas staat (server ligt er nu uit).
 
