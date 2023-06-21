@@ -159,7 +159,12 @@ In deze iteratie heb ik de eerste versie van mijn C3 model gemaakt. Hier moet ik
 
 Deze iteratie heb ik mijn C3 model verder uitgewerkt met daarbij duidelijke uitleg over wat de relatie is van verschillende componenten en de daarbij behorende functionals die zijn opgenomen in het projectplan. 
 
+Ontwerp iteratie 1
+
 ![](../att/C3.png)
+
+Ontwerp iteratie 2
+![](../att/c3%20model%20smart_thermostat%201.0.png)
 
 ### Conclusie
 
